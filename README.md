@@ -39,7 +39,7 @@
   <p align="center">Mini Portal</p>
   <img src="./public/assets/detail-modal.png" alt="Logo" width="100%" height="100%">
   <p align="center">Detail Modal</p>
-  <img src="./public/assets/grid-genre.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/1234.png" alt="Logo" width="100%" height="100%">
   <p align="center">Grid Genre Page</p>
   <img src="./public/assets/watch.png" alt="Logo" width="100%" height="100%">
   <p align="center">Watch Page with customer contol bar</p>
